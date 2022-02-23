@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @VladOnMyOwn
-- 👀 I’m interested in Python & R programming, Mathematics, Econometrics and Statistics
+- 👋 Hi, I’m Vladislav Gorokhov
+- 👀 I’m interested in Python- & R-programming, Mathematics, Econometrics and Statistics
 - 🌱 I’m currently learning Python & R languages, applying them to Data Science
 - 📫 You can reach me by phone +79850340348 or e-mail gorohov2017vladislav@yandex.ru
 
