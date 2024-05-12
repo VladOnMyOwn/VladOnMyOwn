@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vladislav Gorokhov
-- 👀 I’m interested in Python- & R-programming, Mathematics, Econometrics and Statistics
-- 🌱 I’m currently learning Python & R languages, applying them to Data Science
+- 👀 I’m interested in Machine Learning / MLOps and Data Science
 - 📫 You can reach me by phone +79850340348 or e-mail gorokhovvd@icloud.com
 
 <!---
